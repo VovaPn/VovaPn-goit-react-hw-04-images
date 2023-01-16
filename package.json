@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-image",
+  "name": "goit-react-hw-04-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VovaPn.github.io/goit-react-hw-04-image/",
+  "homepage": "https://VovaPn.github.io/goit-react-hw-04-images/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -48,11 +48,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VovaPn/goit-react-hw-04-image-finder.git"
+    "url": "git+https://github.com/VovaPn/goit-react-hw-04-images.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VovaPn/goit-react-hw-04-image-finder/issues"
+    "url": "https://github.com/VovaPn/goit-react-hw-04-images/issues"
   }
 }
